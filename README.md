@@ -1,2 +1,3 @@
 # stunning-octo-dollop
-Web dinamica? de un reloj?
+## Una de las páginas web dinámicas más sencillas pero fascinantes: 
+*un reloj impulsado por un script básico*. Este proyecto es un testimonio de cómo con pocos elementos se puede lograr una herramienta útil y estéticamente agradable. Sumérgete en el código y descubre la belleza de lo simple.
