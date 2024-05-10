@@ -1,0 +1,20 @@
+.reloj {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes blink {
+    0% {opacity: 1;}
+    50% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+
+#hora {
+    font-style: italic;
+    color: blue;
+    font-size: 1em;
+    margin: 0 10px;
+    animation: blink 1s linear infinite;
+}
